@@ -1,0 +1,11 @@
+C:\Users\Rumeysa Tüysüz\source\repos\Visual_Odevi\Visual_Odevi\bin\Debug\Database1.accdb
+C:\Users\Rumeysa Tüysüz\source\repos\Visual_Odevi\Visual_Odevi\bin\Debug\Visual_Odevi.exe.config
+C:\Users\Rumeysa Tüysüz\source\repos\Visual_Odevi\Visual_Odevi\bin\Debug\Visual_Odevi.exe
+C:\Users\Rumeysa Tüysüz\source\repos\Visual_Odevi\Visual_Odevi\bin\Debug\Visual_Odevi.pdb
+C:\Users\Rumeysa Tüysüz\source\repos\Visual_Odevi\Visual_Odevi\obj\Debug\Visual_Odevi.csproj.AssemblyReference.cache
+C:\Users\Rumeysa Tüysüz\source\repos\Visual_Odevi\Visual_Odevi\obj\Debug\Visual_Odevi.Form1.resources
+C:\Users\Rumeysa Tüysüz\source\repos\Visual_Odevi\Visual_Odevi\obj\Debug\Visual_Odevi.Properties.Resources.resources
+C:\Users\Rumeysa Tüysüz\source\repos\Visual_Odevi\Visual_Odevi\obj\Debug\Visual_Odevi.csproj.GenerateResource.cache
+C:\Users\Rumeysa Tüysüz\source\repos\Visual_Odevi\Visual_Odevi\obj\Debug\Visual_Odevi.csproj.CoreCompileInputs.cache
+C:\Users\Rumeysa Tüysüz\source\repos\Visual_Odevi\Visual_Odevi\obj\Debug\Visual_Odevi.exe
+C:\Users\Rumeysa Tüysüz\source\repos\Visual_Odevi\Visual_Odevi\obj\Debug\Visual_Odevi.pdb
